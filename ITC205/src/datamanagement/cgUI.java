@@ -451,6 +451,4 @@ public class cgUI extends javax.swing.JFrame implements IUnitLister,
 	private javax.swing.JTextField jTextField1;
 	private javax.swing.JTextField jTextField2;
 	private javax.swing.JTextField jTextField3;
-
-	group project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagementgroup project/src/datamanagement
 }
