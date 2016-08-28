@@ -1,7 +1,9 @@
 package datamanagement;
 
 public class StudentUnitRecord implements IStudentUnitRecord 
-
+//navinder singh atwal	
+//11542757
+//
 {
 	private Integer sid;// sid for student id
 	private String uc;//uc for subject code
